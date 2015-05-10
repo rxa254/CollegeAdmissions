@@ -7,3 +7,4 @@ Statistics on College Admissions
 * [Sign up to get admissions data](http://www.collegedata.com/cs/admissions/admissions_tracker.jhtml)
 
 ### Caltech: from CollegeData Admissions Tracker
+[Caltech admissions scatter plot](Figures/Caltech_Tracker.png)
